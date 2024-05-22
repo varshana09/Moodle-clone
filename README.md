@@ -1,0 +1,1 @@
+Edit .env file in backend directory to change database parameters
